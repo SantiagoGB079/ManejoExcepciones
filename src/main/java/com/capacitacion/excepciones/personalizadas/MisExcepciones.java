@@ -2,8 +2,8 @@ package com.capacitacion.excepciones.personalizadas;
 
 public class MisExcepciones extends Exception {
 
-    private String causa;
-    private String tipoFalla;
+    private final String causa;
+    private final String tipoFalla;
 
     public MisExcepciones(String causa, String tipoFalla) {
         this.causa = causa;

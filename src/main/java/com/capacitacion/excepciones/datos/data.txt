@@ -1,5 +1,5 @@
 Julian Arango;Bogota;Actor
-Camilo Zuniga;Medellin;Futbolista
+Camilo Zañiga;Medellin;Futbolista
 Juanes;Medellin;Cantante
 shakira;Barranquilla;Cantante
 Ivan Marin;Comediante
